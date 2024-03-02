@@ -94,7 +94,7 @@ print(range(europe$Year))
 ui <- fluidPage(
     # Application title
     titlePanel("Welcome"),
-    "Welcome to MindReset. This is safespace for peoplewhoare tired of life",
+    "Welcome to MindReset. This is safespace for people who want to live life to the fullest",
     sidebarLayout(
         # Sidebar panel
         sidebarPanel(
